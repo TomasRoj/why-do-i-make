@@ -9,3 +9,5 @@ Tomáš Roj - Opportunity to help other people with their problems using best po
 Martin Malý - Making is my passion. I love the feeling I am creating a whole new thing I have created in my mind before.
 
 Konstantin Láska - I just enjoy it.
+
+Matěj V. - I really love feel that I could make something what I imagine in my head. I could solve problems, make a device to make my life easier or just make something I like.
