@@ -11,3 +11,5 @@ Martin Malý - Making is my passion. I love the feeling I am creating a whole ne
 Konstantin Láska - I just enjoy it.
 
 Matěj V. - I really love feel that I could make something what I imagine in my head. I could solve problems, make a device to make my life easier or just make something I like.
+
+**Kryštof Montilla** - As a creators ... We have power to make entire worlds. In my case ... Worlds of Tools. We are not just problem solvers.    Ones and zeros ...  That's our building blocks of living!
