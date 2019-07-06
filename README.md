@@ -11,3 +11,5 @@ Martin Malý - Making is my passion. I love the feeling I am creating a whole ne
 Konstantin Láska - I just enjoy it.
 
 Matěj V. - I really love feel that I could make something what I imagine in my head. I could solve problems, make a device to make my life easier or just make something I like.
+
+Jordi Chin - I just love writing all the functions, variables and especially arrays (I just love them <3)
