@@ -12,4 +12,6 @@ Konstantin Láska - I just enjoy it.
 
 Matěj V. - I really love feel that I could make something what I imagine in my head. I could solve problems, make a device to make my life easier or just make something I like.
 
-**Kryštof Montilla** - As a creators ... We have power to make entire worlds. In my case ... Worlds of Tools. We are not just problem solvers.    Ones and zeros ...  That's our building blocks of living!
+Kryštof Montilla - As a creators ... We have power to make entire worlds. In my case ... Worlds of Tools. We are not just problem solvers.    Ones and zeros ...  That's our building blocks of living!
+
+Jordi Chin - I just love writing all the functions, variables and especially arrays (I just love them <3)
