@@ -1,5 +1,5 @@
 # why-do-i-make
-Show others what were your reason to start being a maker! Start by making a pull request. Remake readme to add your name and your reason. 
+Show others what were your reason to start being a maker or start to code! Start by making a pull request. Remake readme to add your name and your reason. 
 Project started with inspiration from Prague Maker Faire 2019.
 
 # Why do I make?
