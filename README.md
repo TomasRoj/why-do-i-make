@@ -18,6 +18,8 @@ Jordi Chin - I just love writing all the functions, variables and especially arr
 
 Vladan Trhlík - I really enjoy planning projects 'from A to Z'. I learned a lot by making projects, and that's why I love it... 
 
+Augustine Tan - I feel immense satisfaction in solving problems with the code I write. There is nothing better than seeing my code work as I had intended, whether it is for a microcontroller, a mobile app, or even a full-sized robot!
+
 ## Sharing
 
 Due to my very limited area of people I can contact to accept this challenge and contribute, I would be very thankful if you will share this repo so even more people can join. Thanks 🎉🙌
