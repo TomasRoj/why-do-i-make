@@ -16,6 +16,8 @@ Kryštof Montilla - As a creators ... We have power to make entire worlds. In my
 
 Jordi Chin - I just love writing all the functions, variables and especially arrays (I just love them <3)
 
+Vladan Trhlík - I really enjoy planning projects 'from A to Z'. I learned a lot by making projects, and that's why I love it... 
+
 ## Sharing
 
 Due to my very limited area of people I can contact to accept this challenge and contribute, I would be very thankful if you will share this repo so even more people can join. Thanks 🎉🙌
