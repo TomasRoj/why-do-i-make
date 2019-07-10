@@ -15,3 +15,5 @@ Matěj V. - I really love feel that I could make something what I imagine in my 
 Kryštof Montilla - As a creators ... We have power to make entire worlds. In my case ... Worlds of Tools. We are not just problem solvers.    Ones and zeros ...  That's our building blocks of living!
 
 Jordi Chin - I just love writing all the functions, variables and especially arrays (I just love them <3)
+
+Vladan Trhlík - I really enjoy planning projects 'from A to Z'. I learned a lot by making projects, and that's why I love it... 
