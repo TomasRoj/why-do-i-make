@@ -20,6 +20,8 @@ Vladan Trhlík - I really enjoy planning projects 'from A to Z'. I learned a lot
 
 Augustine Tan - I feel immense satisfaction in solving problems with the code I write. There is nothing better than seeing my code work as I had intended, whether it is for a microcontroller, a mobile app, or even a full-sized robot!
 
+Bertik23 - I thought it could be fun so I went to a programming class and it was fun and I started coding things. I really like the problem solving side of things.
+
 ## Sharing
 
 Due to my very limited area of people I can contact to accept this challenge and contribute, I would be very thankful if you will share this repo so even more people can join. Thanks 🎉🙌
